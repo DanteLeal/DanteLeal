@@ -1,4 +1,4 @@
-# Holaa, mi nombre es Dante.
+### Holaa, mi nombre es Dante.
 
 - Soy Estudiante de Ingeniería Civil Informática en la Universidad de Concepción, Chile.
 - Hablo español nativo, e inglés fluido.
